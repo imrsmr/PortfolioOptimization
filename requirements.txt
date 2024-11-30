@@ -1,6 +1,5 @@
 altair==5.4.1
-altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
-attrs==24.2.0
+altgraph==0.17.2
 beautifulsoup4==4.12.3
 blinker==1.9.0
 cachetools==5.5.0
@@ -14,7 +13,7 @@ cycler==0.12.1
 ecos==2.0.14
 fonttools==4.54.1
 frozendict==2.4.6
-future @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+future==0.18.2
 gitdb==4.0.11
 GitPython==3.1.43
 html5lib==1.1
@@ -25,7 +24,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.7
 lxml==5.3.0
-macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+macholib==1.15.2
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.9.2
@@ -54,7 +53,7 @@ rpds-py==0.21.0
 scipy==1.13.1
 scs==3.2.7
 seaborn==0.13.2
-six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+six==1.15.0
 smmap==5.0.1
 soupsieve==2.6
 streamlit==1.40.1
