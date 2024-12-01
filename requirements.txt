@@ -1,5 +1,4 @@
 altair==5.4.1
-altgraph==0.17.2
 attrs==24.2.0
 beautifulsoup4==4.12.3
 blinker==1.9.0
@@ -54,11 +53,9 @@ rpds-py==0.21.0
 scipy==1.13.1
 scs==3.2.7
 seaborn==0.13.2
-six==1.15.0
 smmap==5.0.1
 soupsieve==2.6
 streamlit==1.40.1
-streamlit-chat==0.1.1
 tenacity==9.0.0
 toml==0.10.2
 tornado==6.4.1
